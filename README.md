@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, ReactJS, MongoDB, NextJS**
 
-- 👯 I’m looking to collaborate on **Full Stack Project**
+- 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
 - 📫 How to reach me **sumantasahoo138@gmail.com**
 
